@@ -271,5 +271,17 @@ footer {
   .nav-links {
     justify-content: flex-start;
   }
+
+  .hero-actions {
+    margin-top: 1.5rem;
+  }
+  
+  .self-assessment-actions {
+    margin-top: 1.5rem;
+  }
+  
+  .self-assessment-actions .eyebrow {
+    margin-bottom: 0.75rem;
+  }
 }
 
